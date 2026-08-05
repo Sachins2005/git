@@ -3,7 +3,8 @@ const age =20;
 
 const balance=300;
 
-const account =230;
-
+console.log("hello");
+function updateBalance(){
+   balance+=20;
+}
 updateBalance();
-console.log("hello coder");
